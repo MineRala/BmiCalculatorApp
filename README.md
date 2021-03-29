@@ -1,6 +1,5 @@
 # bmicalculatorapp
 
-A new Flutter application.
 The user can calculate the body mass index by selecting one of the male or female options, entering her/his height and weight.
 
 ## Getting Started
